@@ -44,8 +44,7 @@
 ## 🏆 Certifications 🎖️  
 
 ✔️ **AWS Certified Solutions Architect – Associate** ☁️🏆  
-✔️ **Certified Kubernetes Administrator (CKA)** ☸️🥇  
-✔️ **Microsoft Certified: Azure Solutions Architect Expert** 🔵📜  
+✔️ **Certified Kubernetes Administrator (CKA)** ☸️🥇   
 ✔️ **HashiCorp Certified: Terraform Associate** 🏗️✅  
 
 ---
